@@ -29,13 +29,13 @@ export default function Portfolio() {
             <h1
               className="font-extrabold text-gray-900 flex flex-col items-center mb-6"
             >
-              <span className="text-4xl md:text-6xl mb-3 tracking-tight">Web Comic Viewer</span>
-              <span className="text-xl md:text-2xl font-bold tracking-widest text-gray-700 mt-2 border-t-2 border-black pt-2">PORTFOLIO SYSTEM</span>
+              <span className="text-4xl md:text-6xl mb-3 tracking-tight">Web Comic Gallery</span>
+              <span className="text-xl md:text-2xl font-bold tracking-widest text-gray-700 mt-2 border-t-2 border-black pt-2">COMIC PORTFOLIO</span>
             </h1>
             <p
               className="text-sm md:text-base leading-relaxed text-gray-800 font-bold"
             >
-              漫画ビューワーのデモサイト
+              漫画ポートフォリオサイトのデモ
             </p>
           </div>
 
@@ -72,13 +72,13 @@ export default function Portfolio() {
             className="text-4xl md:text-4xl font-extrabold text-center text-gray-900 mb-6"
             style={{ textShadow: "2px 2px #fff" }}
           >
-            SYSTEM DEMO
+            COMICS
           </h2>
           <p
             className="mb-6 text-sm font-bold"
             style={{ textShadow: "1px 1px #fff" }}
           >
-            ダミーデータを使用したビューワーの動作デモです
+            漫画内容はダミーデータです
           </p>
           <ComicsGallery />
         </div>
