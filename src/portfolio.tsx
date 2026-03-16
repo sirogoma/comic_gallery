@@ -57,7 +57,7 @@ export default function Portfolio() {
 
       <section className="booth text-center pt-14 pb-10 px-5 flex items-center flex-col">
         <a
-          href="https://github.com/sirogoma"
+          href="https://github.com/sirogoma/comic_gallery"
           target="_blank"
           className="inline-block px-8 py-3 mb-10 bg-blue-600 text-white font-extrabold border-4 border-black shadow-[6px_6px_0_#000] hover:cursor-pointer hover:shadow-[0px_0px_0_#000] hover:translate-x-[6px] hover:translate-y-[6px] active:translate-x-[6px] active:translate-y-[6px] transition-all"
         >
@@ -86,7 +86,7 @@ export default function Portfolio() {
 
       <section className="booth text-center pt-1 pb-20 px-5 flex items-center flex-col">
         <a
-          href="https://github.com/sirogoma"
+          href="https://github.com/sirogoma/comic_gallery"
           target="_blank"
           className="inline-block px-8 py-3 mb-10 bg-blue-600 text-white font-extrabold border-4 border-black shadow-[6px_6px_0_#000] hover:cursor-pointer hover:shadow-[0px_0px_0_#000] hover:translate-x-[6px] hover:translate-y-[6px] active:translate-x-[6px] active:translate-y-[6px] transition-all"
         >
@@ -100,7 +100,7 @@ export default function Portfolio() {
           <p className="mb-4">
             Author / GitHub：
             <a
-              href="https://github.com/sirogoma"
+              href="https://github.com/sirogoma/comic_gallery"
               target="_blank"
               className="underline text-blue-700 hover:text-blue-500"
             >
